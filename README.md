@@ -7,7 +7,7 @@
 <ul>
     <li> <h3>Age : 19</h3> </li>
     <li> <h3>Contact : lorest.git@gmail.com</h3> </li>
-    <li> <h3>Wanna check our website ? <a href="https://media.tenor.com/-OFap74b65wAAAAS/zyzz-ratio.gif">Click here</a></h3> </li>
+    <li> <h3>Wanna check our website ? <a href="https://media.tenor.com/-OFap74b65wAAAAS/zyzz-ratio.gif" target="_blank">Click here</a></h3> </li>
 </ul>
 
 
