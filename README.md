@@ -5,7 +5,6 @@
 <ul>
     <li> <h3>Age : 20</h3> </li>
     <li> <h3>Contact : lorest.git@gmail.com</h3> </li>
-    <li> <h3>Wanna check our website ? <a href="https://jmpersosite.000webhostapp.com" target="_blank">Click here</a></h3> </li>
 </ul>
 
 <h2> 🐍 <u> Languages :</u> </h2>
@@ -32,4 +31,4 @@
 <br>
 
 #### Interested in my work ? You can follow me !
-[![GitHub followers](https://img.shields.io/github/followers/L0rest.svg?style=social&label=Follow&maxAge=10000)](https://github.com/L0rest?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/L0rest.svg?style=social&label=Follow&maxAge=10000)]
